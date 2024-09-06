@@ -3,4 +3,4 @@ My personal resume written in LaTex.
   
 Based off of [sb2nov/resume](https://github.com/sb2nov/resume/)  
   
-![Resume Preview](resume.png)  
+![Resume Preview](edgr_resume.png)  
