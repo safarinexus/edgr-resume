@@ -1,0 +1,231 @@
+%-------------------------
+% Resume in Latex
+% Author : Edgar
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubheadingSpecial}[2]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    \textbf{\Huge \scshape Edgar Russell Teong Kai Han} \\ \vspace{1pt}
+    \small (+65) 97379450 $|$ \href{mailto:x@x.com}{\underline{edgargarteong@gmail.com}} $|$ 
+    \href{https://linkedin.com/in/edgarteong}{\underline{linkedin.com/in/edgarteong}} $|$
+    \href{https://github.com/safarinexus}{\underline{github.com/safarinexus}}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Singapore Management University}{Aug. 2020 -- Dec. 2024}
+      {Bachelor of Accountancy, Second Major in Computer Science}{}
+      \resumeItemListStart
+        \resumeItem{Relevant Coursework: Intro to Software Engineering, Web App Development, Data Management, Data Structures and Algorithms}
+      \resumeItemListEnd
+    \resumeSubheadingSpecial
+      {University of St. Gallen (Exchange)}{Sept. 2023 -- Dec. 2023}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+  % -----------Multiple Positions Heading-----------
+  %    \resumeSubSubheading
+  %     {Software Engineer I}{Oct 2014 - Sep 2016}
+  %     \resumeItemListStart
+  %        \resumeItem{Apache Beam}
+  %          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
+  %     \resumeItemListEnd
+  %    \resumeSubHeadingListEnd
+  %-------------------------------------------
+
+    \resumeSubheading
+      {Affle}{Jun. 2023 -- Aug. 2023}
+      {Fullstack Engineer Intern}{Remote}
+      \resumeItemListStart
+        \resumeItem{Developed unit-tested front-end components and back-end routes for 13 different customer products using React generating revenue of more than \$12k}
+        \resumeItem{\textbf{Manager Reference:} Charles Yong, Chief Architect, \href{mailto:x@x.com}{\underline{charles@affle.com}}}
+        \resumeItem{Technologies: \textbf{React, HTML/CSS}}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Government Technology Agency (GovTech)}{Jan. 2023}
+      {Software Engineer Intern}{Singapore}
+      \resumeItemListStart
+        \resumeItem{Worked on the Tech iOSH Refresh Project aimed at providing a more seamless registration portal for more than 2000 safety and health professionals}
+        \resumeItem{Developed unit-tested components for revamped portal to enhance UX through SEO optimisation and accessibility improvements and created a more responsive UI with 70\% higher user adoption rates}
+        \resumeItem{Technologies: \textbf{React, Figma, HTML/CSS}}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Schneider Electric}{Aug. 2022 -- Dec. 2022}
+      {Data Analyst Intern}{Singapore}
+      \resumeItemListStart
+        \resumeItem{Led data migration and adoption of version-control with GitHub to enable improved workflow tracking \& data retrieval across 300 different SQL scripts}
+        \resumeItem{Created a comprehensive SQL data-retrieval script bank for use by entire Internal Audit team}
+        \resumeItem{Developed machine learning algorithm to automate fraud detection for each internal audit cycle with an 80\% effectiveness}
+        \resumeItem{Technologies: \textbf{SQL, Git, Python, Seaborn, Sci-kit Learn, Pandas}}
+      \resumeItemListEnd
+
+      \resumeSubheading
+      {Accenture}{June. 2022 -- Aug. 2022}
+      {Software Development Engineer in Test Intern}{Singapore}
+      \resumeItemListStart
+        \resumeItem{Developed testing tools for iHiS Billing Transform project, aimed at digitally transforming the nationwide healthcare billing solution}
+        \resumeItem{Developed test scripts and templates for testing cycle through SOAP APIs and Python}
+        \resumeItem{Technologies: \textbf{Python, SOAP APIs}}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+        {\textbf{\href{https://safarinexus.github.io/odin_projects/}{TOP Projects}} $|$ \emph{HTML/CSS, Jest, Webpack, npm, React, PostgreSQL, Node.js, Express.js}}{Jan. 2024 -- Present}
+          \resumeItemListStart
+          \resumeItem{A collection full-stack projects learned from "The Odin Project" where I self-taught full-stack development}
+          \resumeItem{Projects include web apps such as a functional calculator, a to-do list, a weather app, a message board and Battleship}
+          \resumeItemListEnd
+      \resumeProjectHeading
+        {\textbf{\href{https://www.forlala.com}{Kyla's Birthday}} $|$ \emph{HTML/CSS, JavaScript}}{July 2024}
+          \resumeItemListStart
+            \resumeItem{Developed a static webpage to celebrate my partner's birthday, with cross browser compatibility}
+            \resumeItem{Scroll animations and design are written in vanilla JavaScript}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+
+
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills \& Interests}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Java, Python, C/C++, SQL (Postgres + Prisma), TypeScript/JavaScript, Node.js, HTML/CSS/SASS, R, PHP} \\
+     \textbf{Frameworks}{: React, Express, CSS Modules} \\
+     \textbf{Developer Tools}{: Git, Figma, SAP, Prisma, Jest, Vitest} \\
+     \textbf{Libraries}{: pandas, NumPy, Matplotlib, seaborn, sci-kit learn} \\
+     \textbf{Interests}{: I’m a computer nerd, I’m a coffee nerd, I’m a mechanical keyboard nerd, I’m a book nerd, I’m a film nerd}
+    }}
+ \end{itemize}
+
+
+%-------------------------------------------
+\end{document}
