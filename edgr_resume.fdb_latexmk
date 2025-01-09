@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1735496089.04152 "/Users/edgr/Desktop/X/computeration/githubStuff/edgr-resume/edgr_resume.tex" "edgr_resume.pdf" "edgr_resume" 1735496089.59531 0
-  "/Users/edgr/Desktop/X/computeration/githubStuff/edgr-resume/edgr_resume.tex" 1735496088.85262 9964 e0d07b92993d54d23eb1dfda0d7c8bc6 ""
+["pdflatex"] 1736402449.96901 "/Users/edgar/Desktop/edgr_dev/edgr-resume/edgr_resume.tex" "edgr_resume.pdf" "edgr_resume" 1736402450.7394 0
+  "/Users/edgar/Desktop/edgr_dev/edgr-resume/edgr_resume.tex" 1736402449.63006 10580 61c3d5c44a48eab72f7600ec0f9aab22 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -9,7 +9,6 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1136768653 1300 b62933e007d01cfd073f79b963c01526 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
@@ -83,12 +82,12 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/tools/verbatim.sty" 1700689882 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
-  "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1723113625.81017 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
-  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1723113579 8221431 3ea253141e2cc452b4fe7a315c61b30e ""
+  "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1736401544.90153 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
+  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1736401445 8221440 c47818cef3b9c145a7abdedf9a96bacb ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "edgr_resume.aux" 1735496089.55084 686 c652886b99c062ae540c19e0d4188d2f "pdflatex"
-  "edgr_resume.out" 1735496089.55173 459 3aebc345fb19ea95852506c20486e7fa "pdflatex"
-  "edgr_resume.tex" 1735496088.85262 9964 e0d07b92993d54d23eb1dfda0d7c8bc6 ""
+  "edgr_resume.aux" 1736402450.65703 686 c652886b99c062ae540c19e0d4188d2f "pdflatex"
+  "edgr_resume.out" 1736402450.66301 459 3aebc345fb19ea95852506c20486e7fa "pdflatex"
+  "edgr_resume.tex" 1736402449.63006 10580 61c3d5c44a48eab72f7600ec0f9aab22 ""
   (generated)
   "edgr_resume.aux"
   "edgr_resume.log"
