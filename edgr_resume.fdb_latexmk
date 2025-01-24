@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1737692261.58419 "/Users/edgar/Desktop/edgr_dev/edgr-resume/edgr_resume.tex" "edgr_resume.pdf" "edgr_resume" 1737692262.2452 0
-  "/Users/edgar/Desktop/edgr_dev/edgr-resume/edgr_resume.tex" 1737692261.19192 10600 722a2eedea25cac38a7df629e1c8f237 ""
+["pdflatex"] 1737694667.36854 "/Users/edgar/Desktop/edgr_dev/edgr-resume/edgr_resume.tex" "edgr_resume.pdf" "edgr_resume" 1737694668.0571 0
+  "/Users/edgar/Desktop/edgr_dev/edgr-resume/edgr_resume.tex" 1737694667.13278 10505 caf26d221a27fd05217bf504d93c3827 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -85,9 +85,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1736401544.90153 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1736401445 8221440 c47818cef3b9c145a7abdedf9a96bacb ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "edgr_resume.aux" 1737692262.16951 686 30a6709b30125c56c3b3941d676f9c3d "pdflatex"
-  "edgr_resume.out" 1737692262.17399 459 9531521f936f744f8e1561f6b388b729 "pdflatex"
-  "edgr_resume.tex" 1737692261.19192 10600 722a2eedea25cac38a7df629e1c8f237 ""
+  "edgr_resume.aux" 1737694667.95692 686 30a6709b30125c56c3b3941d676f9c3d "pdflatex"
+  "edgr_resume.out" 1737694667.96745 459 9531521f936f744f8e1561f6b388b729 "pdflatex"
+  "edgr_resume.tex" 1737694667.13278 10505 caf26d221a27fd05217bf504d93c3827 ""
   (generated)
   "edgr_resume.aux"
   "edgr_resume.log"
