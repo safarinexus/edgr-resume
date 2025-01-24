@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.9)  23 JAN 2025 21:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.9)  24 JAN 2025 11:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -286,11 +286,11 @@ LaTeX Font Info:    Trying to load font information for U+lasy on input line 127
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 153.
+(Font)              <10.95> on input line 150.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 153.
+(Font)              <8> on input line 150.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 153.
+(Font)              <6> on input line 150.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
