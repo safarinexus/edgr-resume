@@ -1,0 +1,228 @@
+%-------------------------
+% Resume in Latex
+% Author : Edgar
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubheadingSpecial}[2]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+  \textbf{\Huge \scshape Ong Xuan Wen Kyla} \\ \vspace{1pt}
+\end{center}
+
+\begin{center}
+    \small 
+    \href{mailto:x@x.com}{\underline{kylaong0807@gmail.com}} $|$ 
+    \href{https://linkedin.com/in/kyla-ong}{\underline{linkedin.com/in/kyla-ong}} $|$
+    (+65) 8822 9121
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Singapore Management University}{Aug. 2022 -- Dec. 2026 (Expected)}
+      {Bachelor of Business Management}{Singapore}
+      \resumeItemListStart
+        \resumeItem{First Major in Operations Management, Second Major in Technology for Business}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+  % -----------Multiple Positions Heading-----------
+  %    \resumeSubSubheading
+  %     {Software Engineer I}{Oct 2014 - Sep 2016}
+  %     \resumeItemListStart
+  %        \resumeItem{Apache Beam}
+  %          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
+  %     \resumeItemListEnd
+  %    \resumeSubHeadingListEnd
+  %-------------------------------------------
+
+    \resumeSubheading
+    {Lululemon}{Nov. 2024 -- Present}
+    {Part-Time Educator}{Singapore}
+    \resumeItemListStart
+      \resumeItem{Assisted guests, ensuring satisfaction with purchases \& service}
+      \resumeItem{Operated cash registers and handled transactions accurately}
+      \resumeItem{Collaborated with a team of 60, reaching above 100\% of our sales targets every week}
+      \resumeItem{Resolved customer complaints efficiently, earning positive feedback and repeat business}
+    \resumeItemListEnd
+
+    \resumeSubheading
+      {Common Man Coffee Roasters}{Aug. 2023 - Present}
+      {Part-Time Server}{Singapore}
+      \resumeItemListStart
+        \resumeItem{Greeted \& seated guests promptly, providing menus \& explaining specials}
+        \resumeItem{Took \& entered orders accurately into POS system, ensuring timely service}
+        \resumeItem{Delivered food \& beverages to tables, checking for customer satisfaction}
+        \resumeItem{Maintained a clean \& organized dining area, ensuring complaince with health \& safety standards}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {The Adventus Consultants}{May. 2022 -- Jun. 2022}
+      {Marketing \& UI/UX Intern}{Singapore}
+      \resumeItemListStart
+        \resumeItem{Designed wireframes, prototypes, \& high-fidelity mockups using Figma}
+        \resumeItem{Collaborated with developers \& stakeholders to implement design solutions, ensuring a seamless user experience}
+        \resumeItem{Presented sample interfaces to clients}
+        \resumeItem{Designed the company's website \& proposal coverpages}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------LEADERSHIP-----------
+\section{Leadership}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Vice President}{Sept. 2023 -- Sept. 2024}
+      {SMU Eurhythmix (Hip-Hop Dance Club)}{}
+      \resumeItemListStart
+        \resumeItem{Led sponsorship efforts for the club, brought in increased funding for events}
+        \resumeItem{In charge of planning events \& get-togethers for the club members' welfare}
+        \resumeItem{Planned the club's premier large scale events, such as dance productions and internal competitions}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Student Councillor}{Jan. 2020 -- Dec. 2021}
+      {Eunoia Junior College}{}
+      \resumeItemListStart
+        \resumeItem{Spearheaded multiple initiatives to establish EJC's culture and boost student's morale amist the COVID 19 pandemic}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Head of Publicity}{Jan. 2018 -- Dec. 2018}
+      {SyNerGiSe Event}{}
+      \resumeItemListStart
+        \resumeItem{Curated and designed Instagram posts}
+        \resumeItem{Managed \@synergise2018 instagram account to promote the event}
+      \resumeItemListEnd
+    
+  \resumeSubHeadingListEnd
+
+%-----------SKILLS-----------
+\section{Skills \& Interests}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+      {\textbf{Programming}}{: Python} \\
+      {\textbf{Graphic Design}}{: Canva, Figma} \\
+      {\textbf{Personal Skills}}{: Project Management, Problem Solving, Detail-Oriented, Team Work, Customer Service} \\
+      {\textbf{Interests}}{: Dance, Coffee}
+    }}
+ \end{itemize}
+
+%-------------------------------------------
+\end{document}
