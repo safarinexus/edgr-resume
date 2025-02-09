@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1737691224.7859 "/Users/edgar/Desktop/edgr_dev/edgr-resume/edgr_resume.tex" "edgr_resume.pdf" "edgr_resume" 1737691225.45391 0
-  "/Users/edgar/Desktop/edgr_dev/edgr-resume/edgr_resume.tex" 1737691224.52969 10443 f92a6a30d25e0859f689b45468af9e42 ""
+["pdflatex"] 1739094579.00331 "/Users/edgr/Desktop/X/computeration/githubStuff/edgr-resume/edgr_resume.tex" "edgr_resume.pdf" "edgr_resume" 1739094579.58529 0
+  "/Users/edgr/Desktop/X/computeration/githubStuff/edgr-resume/edgr_resume.tex" 1739094574.49113 10448 47ef8a44e770ee03209875b85ad4b7f0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -82,12 +82,12 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/tools/verbatim.sty" 1700689882 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
-  "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1736401544.90153 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
-  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1736401445 8221440 c47818cef3b9c145a7abdedf9a96bacb ""
+  "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1723113625.81017 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
+  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1723113579 8221431 3ea253141e2cc452b4fe7a315c61b30e ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "edgr_resume.aux" 1737691225.37496 686 30a6709b30125c56c3b3941d676f9c3d "pdflatex"
-  "edgr_resume.out" 1737691225.37931 459 9531521f936f744f8e1561f6b388b729 "pdflatex"
-  "edgr_resume.tex" 1737691224.52969 10443 f92a6a30d25e0859f689b45468af9e42 ""
+  "edgr_resume.aux" 1739094579.53744 686 30a6709b30125c56c3b3941d676f9c3d "pdflatex"
+  "edgr_resume.out" 1739094579.53827 459 9531521f936f744f8e1561f6b388b729 "pdflatex"
+  "edgr_resume.tex" 1739094574.49113 10448 47ef8a44e770ee03209875b85ad4b7f0 ""
   (generated)
   "edgr_resume.aux"
   "edgr_resume.log"
