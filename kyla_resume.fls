@@ -1,8 +1,8 @@
-PWD /Users/edgar/Desktop/edgr_dev/edgr-resume
+PWD /Users/edgarteong/Desktop/edgr-dev/edgr-resume
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/edgar/Desktop/edgr_dev/edgr-resume/kyla_resume.tex
+INPUT /Users/edgarteong/Desktop/edgr-dev/edgr-resume/kyla_resume.tex
 OUTPUT kyla_resume.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
