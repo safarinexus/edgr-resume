@@ -1,8 +1,8 @@
-PWD /Users/edgr/Desktop/X/computeration/githubStuff/edgr-resume
+PWD /Users/edgarteong/Desktop/edgr-dev/edgr-resume
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/edgr/Desktop/X/computeration/githubStuff/edgr-resume/edgr_resume.tex
+INPUT /Users/edgarteong/Desktop/edgr-dev/edgr-resume/edgr_resume.tex
 OUTPUT edgr_resume.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
