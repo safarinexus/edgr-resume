@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1739337666.43342 "/Users/edgarteong/Desktop/edgr-dev/edgr-resume/kyla_resume.tex" "kyla_resume.pdf" "kyla_resume" 1739337667.27808 0
-  "/Users/edgarteong/Desktop/edgr-dev/edgr-resume/kyla_resume.tex" 1739337666.21162 7473 df1ed3bf003412f992f0063c7d763cd4 ""
+["pdflatex"] 1740539944.82772 "/Users/edgarteong/Desktop/edgr-dev/edgr-resume/kyla_resume.tex" "kyla_resume.pdf" "kyla_resume" 1740539945.33801 0
+  "/Users/edgarteong/Desktop/edgr-dev/edgr-resume/kyla_resume.tex" 1740539944.61658 7515 d6629dddfaa6ef0aa609761e58b9aca7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -85,9 +85,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1739173905.83531 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1739173445 8221427 38f133c16f6773a2fa4c160344f76948 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "kyla_resume.aux" 1739337667.23216 678 5b0960c5f65384f018067193ab4578f7 "pdflatex"
-  "kyla_resume.out" 1739337667.23268 416 2bcfb8b05fc8c007b1d0dbbd7048cb97 "pdflatex"
-  "kyla_resume.tex" 1739337666.21162 7473 df1ed3bf003412f992f0063c7d763cd4 ""
+  "kyla_resume.aux" 1740539945.29576 678 5b0960c5f65384f018067193ab4578f7 "pdflatex"
+  "kyla_resume.out" 1740539945.29658 416 2bcfb8b05fc8c007b1d0dbbd7048cb97 "pdflatex"
+  "kyla_resume.tex" 1740539944.61658 7515 d6629dddfaa6ef0aa609761e58b9aca7 ""
   (generated)
   "kyla_resume.aux"
   "kyla_resume.log"
